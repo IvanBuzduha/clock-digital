@@ -1,1 +1,1 @@
-![Иллюстрация к проекту](https://github.com/jon/coolproject/raw/master/image/image.png)
+![Picture for project](https://github.com/IvanBuzduha/clock-digital/blob/main/img/clock.png)
